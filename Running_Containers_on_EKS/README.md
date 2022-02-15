@@ -6,6 +6,8 @@
 - [Kubernetes 오브젝트 개요](https://shipit.dev/posts/kubernetes-overview-diagrams.html)
 - [Multi-Container Design Patterns](https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/)
 - [EKS에서 영구 스토리지 사용하기](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-persistent-storage/)
+- [테인트(TAINTS) 및 톨러레이션(TOLERATIONS)](https://access.redhat.com/documentation/ko-kr/openshift_container_platform/4.6/html/post-installation_configuration/post-install-taints-tolerations)
+- [톨러레이션(TOLERATIONS)의 operator와 effect](https://wrapitup.tistory.com/2) 
 
 ## 보안
 - [Apache Log4j 취약점으로부터 Kubernetes 워크로드 보호](https://aws.amazon.com/ko/blogs/containers/protect-kubernetes-workloads-from-apache-log4j-vulnerabilities/)
