@@ -23,3 +23,6 @@
 - [DynamoDB 온디멘드](https://aws.amazon.com/ko/blogs/korea/amazon-dynamodb-on-demand-no-capacity-planning-and-pay-per-request-pricing/)
 - [Amazon DynamoDB Transactions](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/transaction-apis.html)
 - [Automatically Archive Items to S3 Using DynamoDB Time to Live (TTL) with AWS Lambda and Amazon Kinesis Firehose](https://aws.amazon.com/ko/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/)
+
+## Module12 - 안전한 애플리케이션 개발
+- [자격 증명 풀(페더레이션 자격 증명) 인증 흐름](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/authentication-flow.html)
