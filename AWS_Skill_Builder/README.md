@@ -83,5 +83,3 @@
 - [Amazon Aurora Service Introduction (Korean)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/936/amazon-aurora-service-introduction-korean) - 이 과정에서는 AWS 고객에게 오픈 소스 데이터베이스 호환성을 제공하는 서비스인 Amazon Aurora의 핵심 기능을 소개합니다.
 - [Amazon ElastiCache Service Introduction (Korean)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1089/amazon-elasticache-service-introduction-korean) - 이 과정에서는 AWS 고객을 위해 인 메모리 데이터베이스를 제공하는 서비스인 Amazon ElastiCache를 소개합니다.
 - [Introduction to AWS Command Line Interface (CLI) (Korean)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/5695/introduction-to-aws-command-line-interface-cli-korean) - AWS 명령줄 인터페이스는 AWS 리소스에 액세스하는 여러 방법 중 하나입니다. 이 과정에서는 AWS CLI에 대한 간략한 개요와 사용 사례를 다룹니다. 교육 과정이 끝나면 AWS CLI를 일상적인 작업에 사용할 수 있는 방법을 보여 주는 데모를 수행합니다.
-- 
-- 
