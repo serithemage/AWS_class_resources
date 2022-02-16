@@ -1,8 +1,21 @@
-# Developing on AWS(AWS 기반 개발) 수업 자료
-> https://bit.ly/dev-on-aws-resource
+# bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발) 수업 자료 
 
-## Module2 Developing on AWS 소개
+## Module2 - Developing on AWS 소개
+- [Immutable Infrastructure](https://medium.com/the-cloud-architect/immutable-infrastructure-21f6613e7a23)
+- [기술의 민주화](https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%88%A0%EC%9D%98_%EB%AF%BC%EC%A3%BC%ED%99%94)
 - [The Twelve Factor App](https://12factor.net/ko/)
+- AWS 학습 리소스 
+  - [AWS Training](https://aws.training)
+  - [AWS Skill Builder 한글화 콘텐츠 모음](https://github.com/serithemage/AWS_class_resources/tree/main/AWS_Skill_Builder)
+  - [AWS News Blog](https://aws.amazon.com/ko/blogs/aws/)
+  - [edX AWS Online Course](https://www.edx.org/school/aws)
+  - 실습
+    - [최신 실습 콘텐츠 찾아보기](https://www.google.com/search?q=aws+workshop)
+    - https://workshops.aws
+    - https://awsworkshop.io
+    - [AWS 한국어 실습 가이드](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
+- [클론 코딩](https://www.youtube.com/watch?v=yu7GQ4zbTsw)
+- [취미생활을 위한 AWS 활용법](https://bit.ly/aws-for-hobby)
 
 ## Module3
 - [서명 버전 4 서명 프로세스](https://docs.aws.amazon.com/ko_kr/general/latest/gr/signature-version-4.html)
