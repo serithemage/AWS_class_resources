@@ -1,6 +1,6 @@
 # AWS 트레이닝 자료 저장소
 
-## 수업 보조자료
+## 수업 보조 자료
 - [Developing on AWS](Developing_on_AWS/)
 - [Running Containers on EKS](Running_Containers_on_EKS/)
 - [Security Engineering on AWS](http://bit.ly/secontents)
