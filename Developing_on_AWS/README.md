@@ -1,4 +1,5 @@
-# Developing on AWS(AWS 기반 개발) 수업 자료(https://bit.ly/dev-on-aws-resource)
+# Developing on AWS(AWS 기반 개발) 수업 자료
+> https://bit.ly/dev-on-aws-resource
 
 ## Module2 Developing on AWS 소개
 - [The Twelve Factor App](https://12factor.net/ko/)
