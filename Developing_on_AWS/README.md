@@ -1,5 +1,8 @@
 # Developing on AWS(AWS 기반 개발) 수업 자료
 
+## Module2 Developing on AWS 소개
+- [The Twelve Factor App](https://12factor.net/ko/)
+
 ## Module3
 - [서명 버전 4 서명 프로세스](https://docs.aws.amazon.com/ko_kr/general/latest/gr/signature-version-4.html)
 
