@@ -9,6 +9,7 @@
 - [The Machine Learning pipeline on AWS](http://bit.ly/ml-pipeline)
 
 ## AWS 학습 및 자격증 관련 자료
+- [AWS 자격증 취득 요령](https://bit.ly/AWS자격증취득요령)
 - [AWS 트레이닝 및 자격증 소개](http://bit.ly/aws-tnc-intro)
 - [AWS Skill Builder](AWS_Skill_Builder/) - 자습형 디지털 과정이 제공됩니다.
 - [AWS 학습 자료집](http://bit.ly/aws-study-resource)
