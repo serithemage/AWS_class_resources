@@ -1,4 +1,5 @@
 # AWS 트레이닝 자료 저장소
+> https://bit.ly/aws-class-resources
 
 ## 수업 보조 자료
 - [Developing on AWS](Developing_on_AWS/)
