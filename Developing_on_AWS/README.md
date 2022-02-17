@@ -17,10 +17,10 @@
 - [클론 코딩](https://www.youtube.com/watch?v=yu7GQ4zbTsw)
 - [취미생활을 위한 AWS 활용법](https://bit.ly/aws-for-hobby)
 
-## Module3
+## Module3 - IAM
 - [서명 버전 4 서명 프로세스](https://docs.aws.amazon.com/ko_kr/general/latest/gr/signature-version-4.html)
 
-## Module4 - Labs
+## Module4 - 실습 소개
 - [언어별 AWS SDK](https://aws.amazon.com/ko/tools/)
 - [AWS CLI](https://aws.amazon.com/ko/cli/)
 - AWS Toolkit
@@ -40,6 +40,10 @@
 - [DynamoDB 온디멘드](https://aws.amazon.com/ko/blogs/korea/amazon-dynamodb-on-demand-no-capacity-planning-and-pay-per-request-pricing/)
 - [Amazon DynamoDB Transactions](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/transaction-apis.html)
 - [Automatically Archive Items to S3 Using DynamoDB Time to Live (TTL) with AWS Lambda and Amazon Kinesis Firehose](https://aws.amazon.com/ko/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/)
+
+## Module7 - Lambda
+- [How to perform ordered data replication between applications by using Amazon DynamoDB Streams](https://aws.amazon.com/ko/blogs/database/how-to-perform-ordered-data-replication-between-applications-by-using-amazon-dynamodb-streams/)
+
 
 ## Module12 - 안전한 애플리케이션 개발
 - [자격 증명 풀(페더레이션 자격 증명) 인증 흐름](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/authentication-flow.html)
