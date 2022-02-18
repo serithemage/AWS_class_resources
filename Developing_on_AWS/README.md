@@ -1,5 +1,7 @@
 # bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발) 수업 자료 
 
+## [실습 코드 다운로드](https://go.aws/2LNzhoF)
+
 ## Module2 - Developing on AWS 소개
 - [Immutable Infrastructure](https://medium.com/the-cloud-architect/immutable-infrastructure-21f6613e7a23)
 - [기술의 민주화](https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%88%A0%EC%9D%98_%EB%AF%BC%EC%A3%BC%ED%99%94)
@@ -28,7 +30,7 @@
   - [AWS Toolkit for Eclipse](https://aws.amazon.com/ko/eclipse/)
   - [AWS Toolkit for JetBrains](https://docs.aws.amazon.com/ko_kr/toolkit-for-jetbrains/latest/userguide/welcome.html)
   - [AWS Toolkit for Visual Studio](https://docs.aws.amazon.com/ko_kr/toolkit-for-visual-studio/latest/user-guide/welcome.html)
-- [실습 코드 다운로드](https://go.aws/2LNzhoF)
+
 
 ## Module5 - S3
 - [Amazon S3의 고가용성을 위한 아키텍처](https://aws.amazon.com/ko/blogs/storage/architecting-for-high-availability-on-amazon-s3/)
