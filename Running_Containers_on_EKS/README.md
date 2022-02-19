@@ -1,5 +1,8 @@
 # Running Containers on EKS 수업 자료
 
+- [k9s](https://github.com/derailed/k9s) - 터미널기반 쿠버네티스 대쉬보드
+
+
 ## 모듈1
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
 - [EKS 워크숍](https://www.eksworkshop.com/)
@@ -15,4 +18,3 @@
 - [Apache Log4j 취약점으로부터 Kubernetes 워크로드 보호](https://aws.amazon.com/ko/blogs/containers/protect-kubernetes-workloads-from-apache-log4j-vulnerabilities/)
 - [Java 기반 워크로드 운영자를 위한 Amazon EKS에서 Kubernetes RBAC 및 IAM 통합](https://aws.amazon.com/ko/blogs/containers/kubernetes-rbac-and-iam-integration-in-amazon-eks-using-a-java-based-kubernetes-operator/)
 
-- [k9s](https://github.com/derailed/k9s)
