@@ -1,7 +1,7 @@
 # Running Containers on EKS 수업 자료
 
 - [k9s](https://github.com/derailed/k9s) - 터미널기반 쿠버네티스 대쉬보드
-
+  - [k9s 명령어](https://k9scli.io/topics/commands/)
 
 ## 모듈1
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
