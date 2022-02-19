@@ -14,6 +14,16 @@
 - [Build a Kubernetes Operator in six steps](https://developers.redhat.com/articles/2021/09/07/build-kubernetes-operator-six-steps)
 - [OperatorHub.io](https://operatorhub.io/)
 
+## 모듈3 - Create Clusters
+- [eksctl - The official CLI for Amazon EKS](https://eksctl.io/)
+  - [Amazon EKS 시작하기 - eksctl](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/getting-started-eksctl.html)
+- [CDK EKS module](https://docs.aws.amazon.com/cdk/api/v1/docs/aws-eks-readme.html)
+- [CDK8S - Cloud Development Kit for Kubernetes](https://cdk8s.io/)
+- [Terraform EKS module](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
+  - [Provision an EKS Cluster](https://learn.hashicorp.com/tutorials/terraform/eks)
+- [Amazon EKS용 kubeconfig 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/create-kubeconfig.html)
+- [Cluster Autoscaler 배포](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/autoscaling.html)
+
 ## 보안
 - [Apache Log4j 취약점으로부터 Kubernetes 워크로드 보호](https://aws.amazon.com/ko/blogs/containers/protect-kubernetes-workloads-from-apache-log4j-vulnerabilities/)
 - [Java 기반 워크로드 운영자를 위한 Amazon EKS에서 Kubernetes RBAC 및 IAM 통합](https://aws.amazon.com/ko/blogs/containers/kubernetes-rbac-and-iam-integration-in-amazon-eks-using-a-java-based-kubernetes-operator/)
