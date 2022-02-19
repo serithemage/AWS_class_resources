@@ -19,6 +19,7 @@
   - [Amazon EKS 시작하기 - eksctl](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/getting-started-eksctl.html)
 - [CDK EKS module](https://docs.aws.amazon.com/cdk/api/v1/docs/aws-eks-readme.html)
 - [CDK8S - Cloud Development Kit for Kubernetes](https://cdk8s.io/)
+- [AWS::EKS::Cluster](https://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/aws-resource-eks-cluster.html)
 - [Terraform EKS module](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
   - [Provision an EKS Cluster](https://learn.hashicorp.com/tutorials/terraform/eks)
 - [Amazon EKS용 kubeconfig 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/create-kubeconfig.html)
