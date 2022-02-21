@@ -47,5 +47,9 @@
 - [How to perform ordered data replication between applications by using Amazon DynamoDB Streams](https://aws.amazon.com/ko/blogs/database/how-to-perform-ordered-data-replication-between-applications-by-using-amazon-dynamodb-streams/)
 - [Coming soon: Expansion of AWS Lambda states to all functions](https://aws.amazon.com/blogs/compute/coming-soon-expansion-of-aws-lambda-states-to-all-functions/)
 
+## Module9 - Step Function
+- [Amazon Status Language 설명서](https://docs.aws.amazon.com/ko_kr/step-functions/latest/dg/concepts-amazon-states-language.html)
+- [AWS Step Function Workshop](https://step-functions-workshop.go-aws.com/)
+
 ## Module12 - 안전한 애플리케이션 개발
 - [자격 증명 풀(페더레이션 자격 증명) 인증 흐름](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/authentication-flow.html)
