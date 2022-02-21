@@ -29,7 +29,7 @@
 - [Cluster Autoscaler 배포](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/autoscaling.html)
   - [클러스터에 대한 IAM OIDC 공급자 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/enable-iam-roles-for-service-accounts.html)  
 
-### 실습 2 도전과제
+### 실습 1 도전과제
  K9S를 설치하고 사용해 봅시다.
  
  설치법
