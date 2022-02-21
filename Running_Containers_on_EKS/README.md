@@ -55,6 +55,9 @@
 - [Amazon EKS 및 Kubernetes에서 Container Insights의 빠른 시작 설정](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-EKS-quickstart.html)
 - [EKS Workshop - Container Insight](https://www.eksworkshop.com/intermediate/250_cloudwatch_container_insights/)
 
+## 모듈7 - 네트워킹
+- [포드 네트워킹(CNI)](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/pod-networking.html)
+
 ### 비용관리
 - [Amazon EKS에서 EC2 스팟 인스턴스를 사용하는 모범 사례는 무엇인가요?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-spot-instance-best-practices/)
 - [How to track costs in multi-tenant Amazon EKS clusters using Kubecost](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
