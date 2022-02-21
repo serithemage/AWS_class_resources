@@ -47,7 +47,18 @@
     - [고급 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-enhanced.html)
     - [기본 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-basic.html)
 ### [데모: Helm을 사용하여 애플리케이션 배포하기](https://www.eksworkshop.com/beginner/060_helm/helm_nginx/installnginx/)
- 
+
+## 모듈5 - 가시성
+- [EKS Workshop - Monitoring using Prometheus and Grafana](https://www.eksworkshop.com/intermediate/240_monitoring/)
+  - [Grafana Dashboards](https://grafana.com/grafana/dashboards/)
+- [Container Insights 사전 조건 확인](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-prerequisites.html)
+- [Amazon EKS 및 Kubernetes에서 Container Insights의 빠른 시작 설정](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-EKS-quickstart.html)
+- [EKS Workshop - Container Insight](https://www.eksworkshop.com/intermediate/250_cloudwatch_container_insights/)
+
+### 비용관리
+- [Amazon EKS에서 EC2 스팟 인스턴스를 사용하는 모범 사례는 무엇인가요?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-spot-instance-best-practices/)
+- [How to track costs in multi-tenant Amazon EKS clusters using Kubecost](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
+- [EKS Workshop - OPTIMIZED WORKER NODE MANAGEMENT WITH OCEAN BY SPOT.IO](https://www.eksworkshop.com/beginner/190_ocean/)
 
 ## 모듈10 - 업그레이드
 - [Kubernetes 릴리스 히스토리](https://kubernetes.io/ko/releases/)
