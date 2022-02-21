@@ -67,7 +67,7 @@
 - [Kubernetes 릴리스 히스토리](https://kubernetes.io/ko/releases/)
 - [EKS Kubernetes 버전](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/kubernetes-versions.html)
 - [Amazon EKS 클러스터 Kubernetes 버전 업데이트 가이드 문서](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/update-cluster.html)
-- [Terraform 을 이용한 EKS upgrade](https://wonderwal1.notion.site/EKS-Cluster-Upgrade-with-terraform-dfe2281e6e97446cb4c45f7cad2e5a42)
+- [[고객 사례 소개]Terraform 을 이용한 EKS upgrade](https://wonderwal1.notion.site/EKS-Cluster-Upgrade-with-terraform-dfe2281e6e97446cb4c45f7cad2e5a42)
 - [PodDisruptionBudget](https://kubernetes.io/docs/concepts/workloads/pods/disruptions/#pod-disruption-budgets)
   - [Specifying a Disruption Budget for your Application](https://kubernetes.io/docs/tasks/run-application/configure-pdb/)
 - [Safely Drain a Node](https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/)
