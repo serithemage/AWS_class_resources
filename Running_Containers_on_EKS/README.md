@@ -40,6 +40,8 @@
  touch ~/.bashrc
  curl -sS https://webinstall.dev/k9s | bash
  source ~/.bashrc
+ 
+ k9s
  ```
 
 ## 모듈4 - 애플리케이션 배포
