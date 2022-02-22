@@ -5,7 +5,7 @@
 - [k9s](https://github.com/derailed/k9s) - 터미널기반 쿠버네티스 대쉬보드
   - [k9s 명령어](https://k9scli.io/topics/commands/)
 
-## 모듈1
+## 모듈1 - Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
 - [EKS 워크숍](https://www.eksworkshop.com/)
 - [Kubernetes 오브젝트 개요](https://shipit.dev/posts/kubernetes-overview-diagrams.html)
@@ -15,6 +15,9 @@
 - [톨러레이션(TOLERATIONS)의 operator와 effect](https://wrapitup.tistory.com/2) 
 - [Build a Kubernetes Operator in six steps](https://developers.redhat.com/articles/2021/09/07/build-kubernetes-operator-six-steps)
 - [OperatorHub.io](https://operatorhub.io/)
+
+## 모듈2 - EKS 기초
+- [eksctl로 관리형 노드 그룹 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/create-managed-node-group.html)
 
 ## 모듈3 - 클러스터 생성
 - [eksctl - The official CLI for Amazon EKS](https://eksctl.io/)
