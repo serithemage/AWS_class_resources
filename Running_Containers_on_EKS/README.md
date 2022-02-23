@@ -62,6 +62,7 @@
 - [EKS Workshop - Container Insight](https://www.eksworkshop.com/intermediate/250_cloudwatch_container_insights/)
 
 ## 모듈 6: 효율성, 복원력, 비용 최적화 간의 균형 유지
+- [AWS Well-Architected 프레임워크](https://wa.aws.amazon.com/index.ko.html)
 - [Amazon EKS에서 EC2 스팟 인스턴스를 사용하는 모범 사례는 무엇인가요?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-spot-instance-best-practices/)
 - [How to track costs in multi-tenant Amazon EKS clusters using Kubecost](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
 - [EKS Workshop - OPTIMIZED WORKER NODE MANAGEMENT WITH OCEAN BY SPOT.IO](https://www.eksworkshop.com/beginner/190_ocean/)
@@ -96,6 +97,4 @@
   - [Specifying a Disruption Budget for your Application](https://kubernetes.io/docs/tasks/run-application/configure-pdb/)
 - [Safely Drain a Node](https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/)
 - [flagger](https://github.com/fluxcd/flagger) - Flagger는 Kubernetes에서 실행되는 애플리케이션의 릴리스 프로세스를 자동화하는 점진적 전달 도구입니다. 메트릭을 측정하고 적합성 테스트를 실행하는 동안 트래픽을 새 버전으로 점진적으로 이동하여 프로덕션에 새 소프트웨어 버전을 도입할 위험을 줄입니다.
-
-## 보안
 
