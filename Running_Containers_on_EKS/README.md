@@ -82,6 +82,11 @@
 - [Java 기반 워크로드 운영자를 위한 Amazon EKS에서 Kubernetes RBAC 및 IAM 통합](https://aws.amazon.com/ko/blogs/containers/kubernetes-rbac-and-iam-integration-in-amazon-eks-using-a-java-based-kubernetes-operator/)
 - [Amazon EKS 클러스터의 특정 IP 주소에 대한 API 액세스를 잠그려면 어떻게 해야 합니까?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-lock-api-access-IP-addresses/)
 
+## 모듈 9: 보안 워크플로우
+- [VXLAN이란?](https://www.juniper.net/kr/ko/research-topics/what-is-vxlan.html)
+- [Amazon EKS에 Calico 설치](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/calico.html)
+- [Kubernetes Secrets](https://kubernetes.io/ko/docs/concepts/configuration/secret/)
+
 ## 모듈 10: 업그레이드
 - [Kubernetes 릴리스 히스토리](https://kubernetes.io/ko/releases/)
 - [EKS Kubernetes 버전](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/kubernetes-versions.html)
