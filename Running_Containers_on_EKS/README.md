@@ -69,7 +69,10 @@
 ## 모듈7 - 네트워킹
 - [포드 네트워킹(CNI)](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/pod-networking.html)
 - [쿠버네티스 네트워킹](https://kubernetes.io/ko/docs/concepts/services-networking/)
-
+- AWS App Mesh
+  - [AWS App Mesh 와 Kubernetes 연동](https://docs.aws.amazon.com/ko_kr/app-mesh/latest/userguide/getting-started-kubernetes.html)
+  - [AWS App Mesh, 회로 차단기 기능 도입](https://aws.amazon.com/ko/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
+  - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 
 ## 모듈10 - 업그레이드
 - [Kubernetes 릴리스 히스토리](https://kubernetes.io/ko/releases/)
