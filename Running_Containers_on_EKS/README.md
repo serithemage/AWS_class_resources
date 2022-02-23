@@ -2,9 +2,6 @@
 
 ## [쿠버네티스 용어집](https://kubernetes.io/ko/docs/reference/glossary/)
 
-- [k9s](https://github.com/derailed/k9s) - 터미널기반 쿠버네티스 대쉬보드
-  - [k9s 명령어](https://k9scli.io/topics/commands/)
-
 ## 모듈 1: Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
 - [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
@@ -35,6 +32,10 @@
 
 ### 실습 1 도전과제
  K9S를 설치하고 사용해 봅시다.
+ 
+ - [k9s](https://github.com/derailed/k9s) - 터미널기반 쿠버네티스 대쉬보드
+  - [k9s 명령어](https://k9scli.io/topics/commands/)
+  - [처음 시작하는 분을 위한 k9s 기초 사용법](https://1minute-before6pm.tistory.com/18)
  
  설치법
  ```bash
