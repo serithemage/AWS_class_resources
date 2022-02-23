@@ -7,6 +7,7 @@
 
 ## 모듈1 - Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
+- [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
 - [EKS 워크숍](https://www.eksworkshop.com/)
 - [Kubernetes 오브젝트 개요](https://shipit.dev/posts/kubernetes-overview-diagrams.html)
 - [Multi-Container Design Patterns](https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/)
