@@ -76,6 +76,9 @@
   - [AWS App Mesh, 회로 차단기 기능 도입](https://aws.amazon.com/ko/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
   - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 
+### 실습 4: EKS통신에 대한 탐구
+  - [Kubernetes Sidecar Injector란?](https://almostgeneral.tistory.com/2)
+
 ## 모듈 8: 보안 인증
 - [클러스터에 대한 IAM OIDC 공급자 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/enable-iam-roles-for-service-accounts.html)
 - [IAM 역할을 서비스 계정에 연결](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/specify-service-account-role.html)
