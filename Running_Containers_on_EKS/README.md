@@ -75,9 +75,7 @@
   - [AWS App Mesh 와 Kubernetes 연동](https://docs.aws.amazon.com/ko_kr/app-mesh/latest/userguide/getting-started-kubernetes.html)
   - [AWS App Mesh, 회로 차단기 기능 도입](https://aws.amazon.com/ko/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
   - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
-
-### 실습 4: EKS통신에 대한 탐구
-  - [Kubernetes Sidecar Injector란?](https://almostgeneral.tistory.com/2)
+  - [AWS App Mesh 및 Amazon EKS 시작하기](https://aws.amazon.com/ko/blogs/containers/getting-started-with-app-mesh-and-eks/)
 
 ## 모듈 8: 보안 인증
 - [클러스터에 대한 IAM OIDC 공급자 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/enable-iam-roles-for-service-accounts.html)
@@ -86,6 +84,7 @@
 - [Apache Log4j 취약점으로부터 Kubernetes 워크로드 보호](https://aws.amazon.com/ko/blogs/containers/protect-kubernetes-workloads-from-apache-log4j-vulnerabilities/)
 - [Java 기반 워크로드 운영자를 위한 Amazon EKS에서 Kubernetes RBAC 및 IAM 통합](https://aws.amazon.com/ko/blogs/containers/kubernetes-rbac-and-iam-integration-in-amazon-eks-using-a-java-based-kubernetes-operator/)
 - [Amazon EKS 클러스터의 특정 IP 주소에 대한 API 액세스를 잠그려면 어떻게 해야 합니까?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-lock-api-access-IP-addresses/)
+- [AWS App Mesh와 함께 Amazon EKS에서 사이드카 삽입 사용](https://aws.amazon.com/ko/blogs/containers/using-sidecar-injection-on-amazon-eks-with-aws-app-mesh/)
 
 ## 모듈 9: 보안 워크플로우
 - [VXLAN이란?](https://www.juniper.net/kr/ko/research-topics/what-is-vxlan.html)
