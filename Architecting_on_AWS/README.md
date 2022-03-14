@@ -1,6 +1,6 @@
 # bit.ly/arc-on-aws </br> Architecting on AWS(AWS 기반 아키텍처 설계) 수업 자료
 
-## 모듈1 - 소개
+## 모듈 1 - 소개
 
 - [AWS는 어떻게 탄생하였는가?](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/)
 - [글로벌 인프라](https://aws.amazon.com/ko/about-aws/global-infrastructure/)
@@ -8,7 +8,7 @@
 - [AWS Well-Architected - 아키텍처 관련 모범 사례를 사용해 학습, 측정 및 구축](https://aws.amazon.com/ko/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 - [AWS의 데이터 센터](https://aws.amazon.com/ko/compliance/data-center/)
 
-## 모듈2 - 가장 간단한 아키텍처
+## 모듈 2 - 가장 간단한 아키텍처
 
 - [Amazon S3 Transfer Acceleration
   Speed Comparison](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
@@ -17,19 +17,19 @@
 - [S3 Glacier Archive 가져오기](https://docs.aws.amazon.com/ko_kr/amazonglacier/latest/dev/downloading-an-archive-two-steps.html)
 - [S3 요금](https://aws.amazon.com/ko/s3/pricing/?nc1=h_ls)
 
-## 모듈3 - 컴퓨팅 계층 추가
+## 모듈 3 - 컴퓨팅 계층 추가
 
  - [AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/)
  - [EC2인스턴스 타입](https://aws.amazon.com/ko/ec2/instance-types/)
    - [AWS Graviton 프로세서](https://aws.amazon.com/ko/ec2/graviton/)
  - [AWS Compute Optimizer – 맞춤형 리소스 최적화 서비스](https://aws.amazon.com/ko/blogs/aws/aws-compute-optimizer-your-customized-resource-optimization-service/)
 
-## 모듈4 - RDS
+## 모듈 4 - RDS
   - [AWS 클라우드 데이터베이스 - 완전관리형의 목적별 데이터베이스로 데이터 인프라를 현대화](https://aws.amazon.com/ko/products/databases/)
   - [Amazon RDS의 모범 사례](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
   - [AWS Database Blog](https://aws.amazon.com/ko/blogs/database/)
 
-## 모듈5, 6 - AWS 기반 네트워킹
+## 모듈 5, 6 - AWS 기반 네트워킹
   - [AWS Networking & Content Delivery Blog](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/)
   - [보안 그룹 한도 변경](https://aws.amazon.com/ko/premiumsupport/knowledge-center/increase-security-group-rule-limit/)
   - [Amazon VPC의 인터네트워크 트래픽 프라이버시](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/VPC_Security.html)
