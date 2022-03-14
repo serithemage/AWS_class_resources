@@ -12,11 +12,24 @@
 
 - [Amazon S3 Transfer Acceleration
   Speed Comparison](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
-
   - [측정 결과 샘플](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html?result=9769-06830-10199-0090&identityId=unknown)
-
 - [S3 ACL과 Bucket 정책중 어떤 것을 써야 하는가?](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
-
 - [S3 Glacier Archive 가져오기](https://docs.aws.amazon.com/ko_kr/amazonglacier/latest/dev/downloading-an-archive-two-steps.html)
-
 - [S3 요금](https://aws.amazon.com/ko/s3/pricing/?nc1=h_ls)
+
+## 모듈3 - 컴퓨팅 계층 추가
+
+ - [AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/)
+ - [EC2인스턴스 타입](https://aws.amazon.com/ko/ec2/instance-types/)
+   - [AWS Graviton 프로세서](https://aws.amazon.com/ko/ec2/graviton/)
+ - [AWS Compute Optimizer – 맞춤형 리소스 최적화 서비스](https://aws.amazon.com/ko/blogs/aws/aws-compute-optimizer-your-customized-resource-optimization-service/)
+
+## 모듈4 - RDS
+  - [AWS 클라우드 데이터베이스 - 완전관리형의 목적별 데이터베이스로 데이터 인프라를 현대화](https://aws.amazon.com/ko/products/databases/)
+  - [Amazon RDS의 모범 사례](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
+  - [AWS Database Blog](https://aws.amazon.com/ko/blogs/database/)
+
+## 모듈5, 6 - AWS 기반 네트워킹
+  - [AWS Networking & Content Delivery Blog](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/)
+  - [보안 그룹 한도 변경](https://aws.amazon.com/ko/premiumsupport/knowledge-center/increase-security-group-rule-limit/)
+  - [Amazon VPC의 인터네트워크 트래픽 프라이버시](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/VPC_Security.html)
