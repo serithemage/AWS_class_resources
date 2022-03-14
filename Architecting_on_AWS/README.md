@@ -23,6 +23,7 @@
  - [EC2인스턴스 타입](https://aws.amazon.com/ko/ec2/instance-types/)
    - [AWS Graviton 프로세서](https://aws.amazon.com/ko/ec2/graviton/)
  - [AWS Compute Optimizer – 맞춤형 리소스 최적화 서비스](https://aws.amazon.com/ko/blogs/aws/aws-compute-optimizer-your-customized-resource-optimization-service/)
+ - [Amazon EBS 다중 연결을 사용하여 여러 인스턴스에 볼륨 연결](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
 
 ## 모듈 4 - RDS
   - [AWS 클라우드 데이터베이스 - 완전관리형의 목적별 데이터베이스로 데이터 인프라를 현대화](https://aws.amazon.com/ko/products/databases/)
