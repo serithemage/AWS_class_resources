@@ -11,7 +11,7 @@
 ## 모듈 2 - 가장 간단한 아키텍처
 
 - [Amazon S3 Transfer Acceleration
-  Speed Comparison](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
+  속도 측정](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
   - [측정 결과 샘플](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html?result=9769-06830-10199-0090&identityId=unknown)
 - [S3 ACL과 Bucket 정책중 어떤 것을 써야 하는가?](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
 - [S3 Glacier Archive 가져오기](https://docs.aws.amazon.com/ko_kr/amazonglacier/latest/dev/downloading-an-archive-two-steps.html)
