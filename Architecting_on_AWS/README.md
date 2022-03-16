@@ -1,3 +1,5 @@
+### [트레이닝 자료 저장소](https://github.com/serithemage/AWS_class_resources)
+
 # bit.ly/arc-on-aws </br> Architecting on AWS(AWS 기반 아키텍처 설계) 수업 자료
 
 ## 모듈 1 - 소개
