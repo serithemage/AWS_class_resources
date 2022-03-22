@@ -1,6 +1,7 @@
 # bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발) 수업 자료 
 
 ## [실습 코드 다운로드](https://go.aws/2LNzhoF)
+## [교재 내용 요약](https://haha02da.notion.site/Developing-on-AWS-8e96dbee1d09438b8c332e549388086e)
 
 ## Module2 - Developing on AWS 소개
 - [Immutable Infrastructure](https://medium.com/the-cloud-architect/immutable-infrastructure-21f6613e7a23)
