@@ -54,6 +54,7 @@
     - [고급 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-enhanced.html)
     - [기본 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-basic.html)
 ### [데모: Helm을 사용하여 애플리케이션 배포하기](https://www.eksworkshop.com/beginner/060_helm/helm_nginx/installnginx/)
+- [Bitnami NginX Helm Chart](https://github.com/bitnami/charts/tree/master/bitnami/nginx)
 
 ## 모듈 5: 가시성
 - [EKS Workshop - Monitoring using Prometheus and Grafana](https://www.eksworkshop.com/intermediate/240_monitoring/)
