@@ -63,6 +63,7 @@
 - [Container Insights 사전 조건 확인](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-prerequisites.html)
 - [Amazon EKS 및 Kubernetes에서 Container Insights의 빠른 시작 설정](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-EKS-quickstart.html)
 - [EKS Workshop - Container Insight](https://www.eksworkshop.com/intermediate/250_cloudwatch_container_insights/)
+- [Fargate기반 EKS클러스터에서 Fluent Bit로그 수집](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/)
 
 ## 모듈 6: 효율성, 복원력, 비용 최적화 간의 균형 유지
 - [AWS Well-Architected 프레임워크](https://wa.aws.amazon.com/index.ko.html)
