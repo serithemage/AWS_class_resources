@@ -53,6 +53,7 @@
   - [이미지 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning.html)
     - [고급 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-enhanced.html)
     - [기본 스캔](https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/image-scanning-basic.html)
+   - [44bits - 아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
 ### [데모: Helm을 사용하여 애플리케이션 배포하기](https://www.eksworkshop.com/beginner/060_helm/helm_nginx/installnginx/)
 - [Bitnami NginX Helm Chart](https://github.com/bitnami/charts/tree/master/bitnami/nginx)
 
