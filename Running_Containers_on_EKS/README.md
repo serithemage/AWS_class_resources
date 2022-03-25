@@ -110,6 +110,9 @@
 - [Amazon EKS에 Calico 설치](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/calico.html)
 - [Kubernetes Secrets](https://kubernetes.io/ko/docs/concepts/configuration/secret/)
 
+### 실습 5 관련
+- [CloudWatch Logs 쿼리 문법](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html)
+
 ## 모듈 10: 업그레이드
 - [Kubernetes 릴리스 히스토리](https://kubernetes.io/ko/releases/)
 - [EKS Kubernetes 버전](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/kubernetes-versions.html)
