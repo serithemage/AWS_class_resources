@@ -4,6 +4,7 @@
 
 ## 컨테이너 기초
 - [컨테이너란? 리눅스의 프로세스 격리 기능](https://www.44bits.io/ko/keyword/linux-container)
+- [컨테이너는 왜 써야 하나요?](https://www.netapp.com/ko/devops-solutions/what-are-containers/)
 - [도커 이미지 빌드와 Dockerfile 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 - [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
