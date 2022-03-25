@@ -2,7 +2,11 @@
 
 ## [쿠버네티스 용어집](https://kubernetes.io/ko/docs/reference/glossary/)
 
-## [컨테이너 기초 - 도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+## 컨테이너 기초
+- [컨테이너란? 리눅스의 프로세스 격리 기능](https://www.44bits.io/ko/keyword/linux-container)
+- [도커 이미지 빌드와 Dockerfile 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
+- [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 ## 모듈 1: Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
