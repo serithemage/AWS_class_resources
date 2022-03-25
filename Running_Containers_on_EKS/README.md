@@ -2,7 +2,7 @@
 
 ## [쿠버네티스 용어집](https://kubernetes.io/ko/docs/reference/glossary/)
 
-## [컨테이너 기초 - 도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process?fbclid=IwAR1_R3nHT2Ze0MD_G7dEYP5zhpkU02Ue0KQF0oJ6ViBjyi75EfYRXMNNlic)
+## [컨테이너 기초 - 도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 ## 모듈 1: Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
