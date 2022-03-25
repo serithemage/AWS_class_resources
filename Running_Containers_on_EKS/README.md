@@ -8,6 +8,12 @@
 - [도커 이미지 빌드와 Dockerfile 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 - [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+ 
+## 그 밖의 자료
+- [AWS 컨테이너 블로그](https://aws.amazon.com/blogs/containers/)
+- [This is My Architecture - Containers](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23containers&awsf.industry=*all&awsf.language=*all&awsf.show=*all&awsf.format=*all)
+
+# 수업 모듈별 참고자료 정리
 
 ## 모듈 1: Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
