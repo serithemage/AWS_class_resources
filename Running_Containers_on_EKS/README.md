@@ -2,6 +2,8 @@
 
 ## [쿠버네티스 용어집](https://kubernetes.io/ko/docs/reference/glossary/)
 
+## [컨테이너 기초 - 도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process?fbclid=IwAR1_R3nHT2Ze0MD_G7dEYP5zhpkU02Ue0KQF0oJ6ViBjyi75EfYRXMNNlic)
+
 ## 모듈 1: Kubernetes 기초
 - [The Twelve-Factor Apps](https://12factor.net/ko/)
 - [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2) - 마이크로 서비스와 컨테이너와의 관계 설명
