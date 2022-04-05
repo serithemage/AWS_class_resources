@@ -38,6 +38,40 @@
 
 ## 실습 3: 애플리케이션을 AWS로 마이그레이션
 
+- 14번: 다음 명령에서 [activation_code], [activation_id] 및 [labRegion] 을 바꾸고, PowerShell 창에 붙여넣은 다음 Enter 키를 누릅니다.
+    
+    ```bash
+    아래 Activation Code 및 ID는 실습 환경에 맞게 변경해야합니다.(반드시 copy해 두세요)
+    
+    Activation Code   5m9VdHfl3VFBJdzpZKDp
+    Activation ID   33fe15d2-6f08-418b-9bd3-c2f5cc08622c
+    ```
+    
+    ```powershell
+    Windows
+    $code = "[activation_code]"
+    $id = "[activation_id]"
+    $region = "[labRegion]"
+    -----------------------------
+    $code = "5m9VdHfl3VFBJdzpZKDp"
+    $id = "33fe15d2-6f08-418b-9bd3-c2f5cc08622c"
+    $region = "us-west-2"
+    ```
+    
+- 30번: 다음 명령에서 [activation_code], [activation_id] 및 [Region] 을 바꾸고, Instance Connect 창에 붙여넣은 다음 Enter 키를 누릅니다.
+    
+    ```bash
+    Linux
+    code=[activation_code]
+    id=[activation_id]
+    region=[labRegion]
+    ----------------------------
+    code=5m9VdHfl3VFBJdzpZKDp
+    id=33fe15d2-6f08-418b-9bd3-c2f5cc08622c
+    region=us-west-2
+    ```
+ - 15번이나 31번 명령어를 두 번 실행하면 인스턴스가 여러대 등록합니다. 이 경우엔 FleetManagement에서 중복된 인스턴스를 등록 해제 해 주세요. 등록 해제 방법은 20번과 36번 바로 아래 !중요 부분에 정리되어 있습니다.
+
 ## 모듈 10: 데이터베이스 및 데이터 마이그레이션 서비스 이해
 
 ## 실습 4: 기존 데이터베이스를 Amazon Aurora로 마이그레이션
