@@ -96,8 +96,11 @@
   - [AWS App Mesh 및 Amazon EKS 시작하기](https://aws.amazon.com/ko/blogs/containers/getting-started-with-app-mesh-and-eks/)
 
 ## 모듈 8: 보안 인증
+![image](https://user-images.githubusercontent.com/3435720/162117897-43ebd723-fff8-4d08-82d2-0386c448c781.png)
+
 - [클러스터에 대한 IAM OIDC 공급자 생성](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/enable-iam-roles-for-service-accounts.html)
 - [IAM 역할을 서비스 계정에 연결](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/specify-service-account-role.html)
+- [AWS EKS Service Account에 AWS IAM Role 부여](https://ssup2.github.io/theory_analysis/AWS_EKS_Service_Account_IAM_Role/)
 - [Amazon EKS 클러스터의 IAM 사용자에 대해 여러 네임스페이스에 걸친 권한을 관리하려면 어떻게 해야 합니까?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-iam-permissions-namespaces/)
 - [Apache Log4j 취약점으로부터 Kubernetes 워크로드 보호](https://aws.amazon.com/ko/blogs/containers/protect-kubernetes-workloads-from-apache-log4j-vulnerabilities/)
 - [Java 기반 워크로드 운영자를 위한 Amazon EKS에서 Kubernetes RBAC 및 IAM 통합](https://aws.amazon.com/ko/blogs/containers/kubernetes-rbac-and-iam-integration-in-amazon-eks-using-a-java-based-kubernetes-operator/)
