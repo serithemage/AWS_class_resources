@@ -39,7 +39,7 @@
   - [AWS X-Ray 처음 시작 문서](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-gettingstarted.html)
  
  ## Module 3 - AWS에서 개발 시작하기
- - [OpenTelemetry](https://opentelemetry.io/)
+ - [OpenTelemetry](https://opentelemetry.io/) - 오픈소스 트레이스 도구. AWS X-Ray를 지원함.
  
  ## Module 4 - AWS 권한 시작하기
  - [AWS CLI에서 IAM Role 전환하기](https://dev.classmethod.jp/articles/aws-cli-iam-role-switch-kr/)
