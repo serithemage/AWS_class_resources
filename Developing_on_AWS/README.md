@@ -53,7 +53,9 @@ mfa_serial = arn:aws:iam::xxxxxxxxxxxxx:mfa/사용자명
 role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 ```
  - [AWS CLI에서 IAM Role 전환하기](https://dev.classmethod.jp/articles/aws-cli-iam-role-switch-kr/) - 이 글에서는 역할 전환시 MFA를 사용하도록 되어 있음.
- - [AWS CloudShell 작업](https://docs.aws.amazon.com/ko_kr/cloudshell/latest/userguide/working-with-cloudshell.html)
+ - 그 밖의 데모 관련 참고 문서
+   - [AWS CloudShell 작업](https://docs.aws.amazon.com/ko_kr/cloudshell/latest/userguide/working-with-cloudshell.html)
+   - [AWS CLI에서 IAM 역할 사용](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-role.html)
  
 
 
