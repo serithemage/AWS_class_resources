@@ -42,4 +42,18 @@
  - [OpenTelemetry](https://opentelemetry.io/) - 오픈소스 트레이스 도구. AWS X-Ray를 지원함.
  
  ## Module 4 - AWS 권한 시작하기
- - [AWS CLI에서 IAM Role 전환하기](https://dev.classmethod.jp/articles/aws-cli-iam-role-switch-kr/)
+ 
+ ### 데모: 권한 테스트(AWS Management Console) - CloudShell 상에서 역할 전환하기
+   > 주의사항! CloudSehll은 ECS상에서 동작하기 때문에 역할 수임을 위한 ~/.aws/config 파일 설정에서 source_profile대신에 credential_source를EcsContainer로 설정해야함(아래 코드 블럭 참고). 나머지는 아래 링크의 [AWS CLI에서 IAM Role 전환하기](https://dev.classmethod.jp/articles/aws-cli-iam-role-switch-kr/)와 동일함.
+
+```bash
+[profile role]
+credential_source=EcsContainer
+mfa_serial = arn:aws:iam::xxxxxxxxxxxxx:mfa/사용자명 
+role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
+```
+ - [AWS CLI에서 IAM Role 전환하기](https://dev.classmethod.jp/articles/aws-cli-iam-role-switch-kr/) - 이 글에서는 역할 전환시 MFA를 사용하도록 되어 있음.
+ - [AWS CloudShell 작업](https://docs.aws.amazon.com/ko_kr/cloudshell/latest/userguide/working-with-cloudshell.html)
+ 
+
+
