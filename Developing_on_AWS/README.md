@@ -70,3 +70,7 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   - [Java](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3.html)
   - [.Net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/s3-apis-intro.html)
 - [S3 객체의 배치 작업을 원큐에 – S3 batch operation 소개](https://wisen.co.kr/pages/blog/blog-detail.html?idx=11928)
+
+## Module 7 - 데이터 베이스 시작하기
+
+- [적응형 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
