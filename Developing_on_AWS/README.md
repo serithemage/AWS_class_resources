@@ -74,3 +74,4 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 ## Module 7 - 데이터 베이스 시작하기
 
 - [적응형 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
+- [PartiQL - Amazon DynamoDB용 SQL 호환 쿼리 언어](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/ql-reference.html)
