@@ -56,6 +56,8 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
  - 그 밖의 데모 관련 참고 문서
    - [AWS CloudShell 작업](https://docs.aws.amazon.com/ko_kr/cloudshell/latest/userguide/working-with-cloudshell.html)
    - [AWS CLI에서 IAM 역할 사용](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-role.html)
+   - [IAM 역할을 사용하여 Amazon EC2 인스턴스에서 실행되는 애플리케이션에 권한 부여
+](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_roles_use_switch-role-ec2.html)
  
 
 
