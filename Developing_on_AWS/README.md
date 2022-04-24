@@ -1,6 +1,6 @@
 # bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발 v4.x) 수업 자료 
 
-> ver 3.x 를 위한 수업자료는 [여기](DevOnAWS_v3.md)를 클릭 하세요
+> Developing on AWS ver 3.x 를 위한 수업자료는 [여기](DevOnAWS_v3.md)를 클릭 하세요
 
 ## Module 1 - 과정 개요
 
@@ -59,5 +59,7 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
    - [IAM 역할을 사용하여 Amazon EC2 인스턴스에서 실행되는 애플리케이션에 권한 부여
 ](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_roles_use_switch-role-ec2.html)
  
+## Module 5 - 스토리지 옵션(Amazon S3 중심)
 
+- [AWS General Immersion Day - Amazon S3 실습](https://catalog.workshops.aws/general-immersionday/ko-KR/basic-modules/60-s3/s3)
 
