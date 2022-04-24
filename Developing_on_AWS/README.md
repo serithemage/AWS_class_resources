@@ -1,4 +1,4 @@
-# bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발) 수업 자료 
+# bit.ly/dev-on-aws-resource </br> Developing on AWS(AWS 기반 개발 v4.x) 수업 자료 
 
 > ver 3.x 를 위한 수업자료는 [여기](DevOnAWS_v3.md)를 클릭 하세요
 
