@@ -63,3 +63,10 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 - [AWS General Immersion Day - Amazon S3 실습](https://catalog.workshops.aws/general-immersionday/ko-KR/basic-modules/60-s3/s3)
 
+## Module 6 - 스토리지 작업 처리
+
+- 각 언어별 SDK의 S3 샘플
+  - [Python](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html)
+  - [Java](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3.html)
+  - [.Net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/s3-apis-intro.html)
+- [S3 객체의 배치 작업을 원큐에 – S3 batch operation 소개](https://wisen.co.kr/pages/blog/blog-detail.html?idx=11928)
