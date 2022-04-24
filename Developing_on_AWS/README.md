@@ -65,13 +65,22 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 ## Module 6 - 스토리지 작업 처리
 
-- 각 언어별 SDK의 S3 샘플
+- 각 언어별 SDK의 S3 샘플 코드
   - [Python](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html)
   - [Java](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3.html)
-  - [.Net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/s3-apis-intro.html)
+  - [.net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/s3-apis-intro.html)
+  - [JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_s3_code_examples.html)
 - [S3 객체의 배치 작업을 원큐에 – S3 batch operation 소개](https://wisen.co.kr/pages/blog/blog-detail.html?idx=11928)
 
 ## Module 7 - 데이터 베이스 시작하기
 
 - [적응형 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
 - [PartiQL - Amazon DynamoDB용 SQL 호환 쿼리 언어](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/ql-reference.html)
+- 각 언어별 SDK의 DynamoDB 샘플 코드
+  - [Python](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/dynamodb.html)
+    - [dynamodb-mapper](https://pypi.org/project/dynamodb-mapper/)
+  - [Java](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-dynamodb.html)
+    - [Java: DynamoDBMapper](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/DynamoDBMapper.html)
+  - [.net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/dynamodb-intro.html)
+  - [JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_dynamodb_code_examples.html)
+    - [Amazon DynamoDB DataMapper For JavaScript](https://github.com/awslabs/dynamodb-data-mapper-js)
