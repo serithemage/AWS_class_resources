@@ -41,7 +41,9 @@
  ## Module 3 - AWS에서 개발 시작하기
  - [OpenTelemetry](https://opentelemetry.io/) - 오픈소스 트레이스 도구. AWS X-Ray를 지원함.
  - [Cloud9 저장 공간 늘리기](https://docs.aws.amazon.com/ko_kr/cloud9/latest/user-guide/move-environment.html)
- - [JavaScript SDK의 API 버전잠금](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/v2/developer-guide/locking-api-versions.html)
+ - 버전 잠금 - 일부 AWS 서비스는 이전 버전과의 호환성을 지원하기 위해 여러 개의 API 버전을 유지하고 있습니다. 기본적으로 AWS SDK는 가장 최근에 출시된 API 버전을 사용합니다. 아래 링크에서는 SDK및 CLI에서 API버전을 고정시키기 위한 방법을 소개하고 있습니다.
+   - [구성 및 자격 증명 파일 설정](https://docs.aws.amazon.com/ko_kr/cli/v1/userguide/cli-configure-files.html)
+   - [JavaScript SDK의 API 버전잠금](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/v2/developer-guide/locking-api-versions.html)
  
  ## Module 4 - AWS 권한 시작하기
  
