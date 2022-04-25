@@ -101,6 +101,11 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 - Lambda
   - [Lambda 함수 한도](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-limits.html)
+
+### 데모 - Lambda 함수 만들기
+  - [샘플 코드](https://github.com/awsdocs/aws-lambda-developer-guide)
   - [콘솔로 Lambda 함수 생성](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/getting-started-create-function.html)
   - [컨테이너 이미지로 정의된 함수 생성](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-images.html)
+
+
   
