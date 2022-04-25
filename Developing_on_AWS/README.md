@@ -40,6 +40,8 @@
  
  ## Module 3 - AWS에서 개발 시작하기
  - [OpenTelemetry](https://opentelemetry.io/) - 오픈소스 트레이스 도구. AWS X-Ray를 지원함.
+ - [Cloud9 저장 공간 늘리기](https://docs.aws.amazon.com/ko_kr/cloud9/latest/user-guide/move-environment.html)
+ - [JavaScript SDK의 API 버전잠금](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/v2/developer-guide/locking-api-versions.html)
  
  ## Module 4 - AWS 권한 시작하기
  
