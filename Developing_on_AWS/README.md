@@ -88,3 +88,10 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   - [.net](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/dynamodb-intro.html)
   - [JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_dynamodb_code_examples.html)
     - [Amazon DynamoDB DataMapper For JavaScript](https://github.com/awslabs/dynamodb-data-mapper-js)
+
+## Module 8 - 데이터 베이스 작업 처리
+
+- DynamoDB
+  - [읽기/쓰기 모드](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ReadWriteCapacityMode.html#HowItWorks.ProvisionedThroughput.Manual)
+  - [스캔작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Scan.html)
+  - [조건식](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html)
