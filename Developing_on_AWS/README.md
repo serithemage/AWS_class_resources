@@ -35,6 +35,7 @@
 - AWS SAM
   - [AWS SAM 자습서: Hello World 애플리케이션 배포](https://docs.aws.amazon.com/ko_kr/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
   - [AWS SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
+  - [AWS SAM CLI Application Templates](https://github.com/aws/aws-sam-cli-app-templates)
 - AWS X-Ray
   - [AWS X-Ray 처음 시작 문서](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-gettingstarted.html)
  
@@ -100,3 +101,6 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 - Lambda
   - [Lambda 함수 한도](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-limits.html)
+  - [콘솔로 Lambda 함수 생성](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/getting-started-create-function.html)
+  - [컨테이너 이미지로 정의된 함수 생성](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-images.html)
+  
