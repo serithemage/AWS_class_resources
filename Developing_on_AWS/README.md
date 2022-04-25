@@ -95,3 +95,8 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   - [읽기/쓰기 모드](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ReadWriteCapacityMode.html#HowItWorks.ProvisionedThroughput.Manual)
   - [스캔작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Scan.html)
   - [조건식](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html)
+
+## Module 9 - 에플리케이션 로직 처리
+
+- Lambda
+  - [Lambda 함수 한도](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-limits.html)
