@@ -115,3 +115,5 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 - [WebSocket Sample App](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:729047367331:applications~simple-websockets-chat-app)
 - [API GW 매핑 템플릿](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
   
+## Module 11 - 마이크로서비스
+- [App Modernization Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/)
