@@ -113,4 +113,5 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 - [HTTP API와 REST API 중에서 선택](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/http-api-vs-rest.html)
 - [WebSocket Sample App](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:729047367331:applications~simple-websockets-chat-app)
+- [API GW 매핑 템플릿](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
   
