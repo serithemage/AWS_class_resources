@@ -117,3 +117,5 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   
 ## Module 11 - 마이크로서비스
 - [App Modernization Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/)
+- [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
+- [도커 한방에 정리(실습 포함) - 드림코딩](https://www.youtube.com/watch?v=LXJhA3VWXFA)
