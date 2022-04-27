@@ -133,3 +133,6 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 
 ## Module 14 - 관찰성
 - [One Observability Workshop](https://catalog.workshops.aws/observability/ko-KR)
+- [X-Ray 에이전트 활성화 시키는법](https://docs.aws.amazon.com/codeguru/latest/profiler-ug/enabling-the-agent-with-code.html)
+- [X-Ray SDK로 Java에서 실행되는 SQL 쿼리 추적](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-sdk-java-sqlclients.html)
+- [Optimizing application performance with Amazon CodeGuru Profiler](https://aws.amazon.com/blogs/machine-learning/optimizing-application-performance-with-amazon-codeguru-profiler/)
