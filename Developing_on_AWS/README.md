@@ -38,10 +38,6 @@
   - [AWS Toolkit for Eclipse](https://aws.amazon.com/ko/eclipse/)
   - [AWS Toolkit for JetBrains](https://docs.aws.amazon.com/ko_kr/toolkit-for-jetbrains/latest/userguide/welcome.html)
   - [AWS Toolkit for Visual Studio](https://docs.aws.amazon.com/ko_kr/toolkit-for-visual-studio/latest/user-guide/welcome.html)
-- AWS SAM
-  - [AWS SAM 자습서: Hello World 애플리케이션 배포](https://docs.aws.amazon.com/ko_kr/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
-  - [AWS SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
-  - [AWS SAM CLI Application Templates](https://github.com/aws/aws-sam-cli-app-templates)
 - AWS X-Ray
   - [AWS X-Ray 처음 시작 문서](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-gettingstarted.html)
  
@@ -128,3 +124,9 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   - [도커 한방에 정리(실습 포함) - 드림코딩](https://www.youtube.com/watch?v=LXJhA3VWXFA)
   - [Amazon ECS 실습](https://ecsworkshop.com/)
   - [Amazon EKS 실습](https://www.eksworkshop.com/)
+
+## Module 13 - DevOps
+- AWS SAM
+  - [AWS SAM 자습서: Hello World 애플리케이션 배포](https://docs.aws.amazon.com/ko_kr/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
+  - [AWS SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
+  - [AWS SAM CLI Application Templates](https://github.com/aws/aws-sam-cli-app-templates)
