@@ -130,3 +130,6 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
   - [AWS SAM 자습서: Hello World 애플리케이션 배포](https://docs.aws.amazon.com/ko_kr/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
   - [AWS SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
   - [AWS SAM CLI Application Templates](https://github.com/aws/aws-sam-cli-app-templates)
+
+## Module 14 - 관찰성
+- [One Observability Workshop](https://catalog.workshops.aws/observability/ko-KR)
