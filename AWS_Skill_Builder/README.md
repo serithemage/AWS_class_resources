@@ -1,6 +1,6 @@
 > 링크가 깨져 있거나 교육이 폐지된경우 맨 아래 댓글창 혹은 깃헙 이슈로 알려 주시기 바랍니다. 물론 PR도 환영합니다!
 
-# AWS Skill Builder 
+# AWS Skill Builder 한글화 과정 목록
 ## 단축 URL : https://bit.ly/aws-skill-builder
 
 한글 자막 처리가 되어 있는 주요 AWS Skill Builder 교육 목록입니다.  
