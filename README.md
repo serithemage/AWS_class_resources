@@ -16,7 +16,7 @@
 
 - [AWS 자격증 취득 가이드](https://bit.ly/AWS자격증취득가이드)
 - [AWS 트레이닝 및 자격증 소개](http://bit.ly/aws-tnc-intro)
-- [AWS Skill Builder](AWS_Skill_Builder/) - 자습형 디지털 과정이 제공됩니다.
+- [AWS Skill Builder 한글화 과정 목록](AWS_Skill_Builder/) - 자습형 디지털 과정이 제공됩니다.
 - [AWS 학습 자료집](http://bit.ly/aws-study-resource)
 - [AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](http://bit.ly/sacertguide)
 - [AWS 공인 개발자 - 어소시에이트 수험 가이드](http://bit.ly/devcertguide)
