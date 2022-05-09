@@ -11,6 +11,7 @@
 - [Big Data on AWS](http://bit.ly/bdonaws)
 - [Deep Learning on AWS](http://bit.ly/dlonaws)
 - [The Machine Learning pipeline on AWS](http://bit.ly/ml-pipeline)
+- [Developing Serverless Solutions on AWS)(Developing_Serverless_Solutions_on_AWS/)
 
 ## AWS 학습 및 자격증 관련 자료
 
