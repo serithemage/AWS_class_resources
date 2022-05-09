@@ -1,6 +1,9 @@
 # Developing Serverless Solutions on AWS 학습 자료집
 > 단축URL: https://bit.ly/dss-on-aws
 
+# 실습과 Try-It-Out 연습
+- [Developing Serverless Solutions on AWS - Course Supplement (OCS) (Korean)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9255/developing-serverless-solutions-on-aws-course-supplement-ocs-korean) - Developing Serverless Solutions on AWS 수업의 과정 보충 자료(OCS) 입니다. OCS는 탐색 가능한 과정 개요와 수강생이 스스로 사용하거나 수업 토론 중에 활용할 수 있는 복습 자료 및 지식 확인 문제를 제공합니다.
+
 # 모듈 1: 서버리스 방식 고려
 
 - [이벤트 기반 아키텍처 시작하기](https://aws.amazon.com/ko/blogs/compute/getting-started-with-event-driven-architecture/)
