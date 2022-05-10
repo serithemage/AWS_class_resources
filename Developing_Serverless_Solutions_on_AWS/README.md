@@ -18,3 +18,10 @@
   - [WebSocket API 호출](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/apigateway-how-to-call-websocket-api.html)
 - [API Gateway API에 대해 설정할 엔드포인트 유형 선택](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/api-gateway-api-endpoint-types.html)
 
+#  모듈 3: 인증, 권한 부여 및 액세스 제어 소개
+
+- [API Gateway의 HTTP API에 대한 액세스 제어 및 관리](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/http-api-access-control.html)
+- [API Gateway의 REST API에 대한 액세스 제어 및 관리](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/apigateway-control-access-to-api.html)
+- [카카오 로그인으로 Amazon Cognito 연동하기](https://haandol.github.io/2021/01/31/cognito-kakao-login.html)
+  - [Cognito - 카카오 인증 연동 생플코드](https://github.com/haandol/cognito-kakao-example)
+- [사용자 풀에 토큰 사용](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html)
