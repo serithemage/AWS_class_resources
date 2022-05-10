@@ -7,6 +7,7 @@
 # 모듈 1: 서버리스 방식 고려
 
 - [이벤트 기반 아키텍처 시작하기](https://aws.amazon.com/ko/blogs/compute/getting-started-with-event-driven-architecture/)
+- [도메인 주도 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788992939850)
 
 # 모듈 2: API 기반 개발 및 동기식 이벤트 소스
 
@@ -25,3 +26,19 @@
 - [카카오 로그인으로 Amazon Cognito 연동하기](https://haandol.github.io/2021/01/31/cognito-kakao-login.html)
   - [Cognito - 카카오 인증 연동 생플코드](https://github.com/haandol/cognito-kakao-example)
 - [사용자 풀에 토큰 사용](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html)
+- [When to Use Webhooks? Compared with WebSocket, Pub/Sub, and Polling.](https://hookdeck.com/webhooks/guides/when-to-use-webhooks#how-webhooks-work)
+
+# 모듈 4: 서버리스 배포 프레임워크
+![image](https://user-images.githubusercontent.com/3435720/167570880-03a77419-e96a-4d30-8b89-b2b90ccde731.png)
+
+- 배포 프레임워크별 코드 비교
+  - [CloudFormation VPC생성](https://docs.aws.amazon.com/ko_kr/codebuild/latest/userguide/cloudformation-vpc-template.html)
+  - [CDK VPC생성](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_ec2.Vpc.html)
+  - [SAM 저장소(DynamoDB) 추가](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US/make-updates/add-datastore)
+  - [Amplify 스토리지 추가](https://docs.amplify.aws/cli/storage/overview/)
+
+- Workshop
+  - [AWS CloudFormation Workshop](https://catalog.workshops.aws/cfn101/en-US)
+  - [CDK Workshop](https://cdkworkshop.com/)
+  - [SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
+  - [Amplify Workshop](https://master.d3f5073vvso9t3.amplifyapp.com/)
