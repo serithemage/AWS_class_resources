@@ -42,3 +42,10 @@
   - [CDK Workshop](https://cdkworkshop.com/)
   - [SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
   - [Amplify Workshop](https://master.d3f5073vvso9t3.amplifyapp.com/)
+
+# 모듈 7: 적절한 Lambda 함수 작성
+
+- [.zip 또는 JAR 파일 아카이브를 사용하여 Java Lambda 함수 배포](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/java-package.html)
+- [Amazon SQS에서 Lambda 사용 - 배치 항목 실패 보고](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/with-sqs.html#services-sqs-batchfailurereporting)
+- [AWS Lambda에서 사용자 지정 체크포인트로 배치 처리 최적화](https://aws.amazon.com/ko/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
+- [스트림 처리 및 비동기식 호출을 위한 새로운 AWS Lambda 제어](https://aws.amazon.com/ko/blogs/compute/new-aws-lambda-controls-for-stream-processing-and-asynchronous-invocations/)
