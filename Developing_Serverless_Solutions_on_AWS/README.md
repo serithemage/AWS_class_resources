@@ -49,3 +49,5 @@
 - [Amazon SQS에서 Lambda 사용 - 배치 항목 실패 보고](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/with-sqs.html#services-sqs-batchfailurereporting)
 - [AWS Lambda에서 사용자 지정 체크포인트로 배치 처리 최적화](https://aws.amazon.com/ko/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
 - [스트림 처리 및 비동기식 호출을 위한 새로운 AWS Lambda 제어](https://aws.amazon.com/ko/blogs/compute/new-aws-lambda-controls-for-stream-processing-and-asynchronous-invocations/)
+- [AWS Step Functions - 경로](https://docs.aws.amazon.com/ko_kr/step-functions/latest/dg/amazon-states-language-paths.html)
+- [JsonPath 구문](https://github.com/json-path/JsonPath)
