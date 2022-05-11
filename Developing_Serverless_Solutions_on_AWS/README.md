@@ -54,4 +54,4 @@
 
 - [AWS Step Functions - 경로](https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-paths.html)
 - [JsonPath 구문](https://github.com/json-path/JsonPath)
-- [Data flow simulator](https://us-east-1.console.aws.amazon.com/states/home?region=us-east-1#/simulator) - 
+- [Data flow simulator](https://us-east-1.console.aws.amazon.com/states/home?region=us-east-1#/simulator) - 경로의 작동방식을 이해하는데 있어서 크게 도움이 되는 시뮬레이터 입니다.
