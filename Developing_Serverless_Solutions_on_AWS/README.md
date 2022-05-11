@@ -43,6 +43,12 @@
   - [SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
   - [Amplify Workshop](https://master.d3f5073vvso9t3.amplifyapp.com/)
 
+# 실습 1: 간단한 서버리스 애플리케이션 배포
+
+- ❗주의점
+  -  22. Generate client secret 확인란 취소를 놓치게 되면 73번의 Create account에서 실패하게 됩니다.
+
+
 # 모듈 7: 적절한 Lambda 함수 작성
 
 - [.zip 또는 JAR 파일 아카이브를 사용하여 Java Lambda 함수 배포](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/java-package.html)
