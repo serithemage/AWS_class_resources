@@ -75,3 +75,8 @@
 - [Java용 X-Ray SDK를 사용하는 SQL 쿼리 추적](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-sdk-java-sqlclients.html)
 - [Amazon CodeGuru Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1786241d-967f-4195-99ef-5716ef485201/en-US/)
 - [Amazon CodeGuru](https://aws.amazon.com/ko/codeguru/)
+
+# 모듈 11: 서버리스 애플리케이션에서 규모 조정 처리
+
+- [Amazon API Gateway 할당량 및 중요 정보](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/limits.html)
+- [HTTP API에 대한 AWS 서비스 통합 작업(1급 통합 서비스)](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/http-api-develop-integrations-aws-services.html)
