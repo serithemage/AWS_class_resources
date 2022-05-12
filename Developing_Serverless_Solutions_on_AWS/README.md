@@ -80,3 +80,13 @@
 
 - [Amazon API Gateway 할당량 및 중요 정보](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/limits.html)
 - [HTTP API에 대한 AWS 서비스 통합 작업(1급 통합 서비스)](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/http-api-develop-integrations-aws-services.html)
+- [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+- [Lambda의 확장 및 동시성](https://docs.aws.amazon.com/ko_kr/lambda/latest/operatorguide/scaling-concurrency.html)
+- [Lambda 프로비저닝된 동시성 관리](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/provisioned-concurrency.html)
+- [Lambda 함수 크기 조정](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/invocation-scaling.html)
+- [Operating Lambda: Debugging code – Part 1](https://aws.amazon.com/ko/blogs/compute/operating-lambda-debugging-code-part-1/)
+- [Operating Lambda: Debugging configurations – Part 2](https://aws.amazon.com/ko/blogs/compute/operating-lambda-debugging-configurations-part-2/)
+- [Operating Lambda: Debugging configurations – Part 3](https://aws.amazon.com/ko/blogs/compute/operating-lambda-debugging-integrations-part-3/)
+- [Scheduling AWS Lambda Provisioned Concurrency for recurring peak usage](https://aws.amazon.com/ko/blogs/compute/scheduling-aws-lambda-provisioned-concurrency-for-recurring-peak-usage/)
+- [Amazon SQS에 사용할 수 있는 CloudWatch 지표](https://docs.aws.amazon.com/ko_kr/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-available-cloudwatch-metrics.html)
+- [Amazon Kinesis Data Streams, 고속 스트리밍을 위해 향상된 팬아웃 및 HTTP/2 지원 추가](https://aws.amazon.com/ko/blogs/korea/kds-enhanced-fanout/)
