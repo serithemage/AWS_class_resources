@@ -56,6 +56,8 @@
 - [AWS Lambda에서 사용자 지정 체크포인트로 배치 처리 최적화](https://aws.amazon.com/ko/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
 - [스트림 처리 및 비동기식 호출을 위한 새로운 AWS Lambda 제어](https://aws.amazon.com/ko/blogs/compute/new-aws-lambda-controls-for-stream-processing-and-asynchronous-invocations/)
 - [Lambda EventSourceMappingConfiguration](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/API_EventSourceMappingConfiguration.html)
+- [Optimizing batch processing with custom checkpoints in AWS Lambda](https://aws.amazon.com/ko/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
+- [AWS Lambda Powertools for Java](https://awslabs.github.io/aws-lambda-powertools-java/)
 
 # 모듈 8: 오케스트레이션을 위한 Step Functions
 
