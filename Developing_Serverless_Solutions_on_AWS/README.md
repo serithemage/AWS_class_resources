@@ -46,7 +46,7 @@
 # 실습 1: 간단한 서버리스 애플리케이션 배포
 
 - ❗주의점
-  -  22. Generate client secret 확인란 취소를 놓치게 되면 73번의 Create account에서 실패하게 됩니다.
+  -  22번 Generate client secret 확인란 취소를 놓치게 되면 73번의 Create account에서 실패하게 됩니다.
 
 
 # 모듈 7: 적절한 Lambda 함수 작성
@@ -56,9 +56,15 @@
 - [AWS Lambda에서 사용자 지정 체크포인트로 배치 처리 최적화](https://aws.amazon.com/ko/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
 - [스트림 처리 및 비동기식 호출을 위한 새로운 AWS Lambda 제어](https://aws.amazon.com/ko/blogs/compute/new-aws-lambda-controls-for-stream-processing-and-asynchronous-invocations/)
 
-# 오케스트레이션을 위한 Step Functions
+# 모듈 8: 오케스트레이션을 위한 Step Functions
 
 - [AWS Step Functions - 경로](https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-paths.html)
 - [JsonPath 구문](https://github.com/json-path/JsonPath)
 - [Data flow simulator](https://us-east-1.console.aws.amazon.com/states/home?region=us-east-1#/simulator) - 경로의 작동방식을 이해하는데 있어서 크게 도움이 되는 시뮬레이터 입니다.
 - [내장 함수](https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-intrinsic-functions.html)
+
+# 모듈 9: 관찰 가능성 및 모니터링
+
+- [One Observality Workshop](https://catalog.workshops.aws/observability/ko-KR)
+- [API Gateway에서 REST API에 대한 CloudWatch 로깅 설정](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/set-up-logging.html)
+- [Analyzing API Gateway custom access logs for custom domain names](https://aws.amazon.com/ko/blogs/compute/analyzing-api-gateway-custom-access-logs-for-custom-domain-names/)
