@@ -78,6 +78,8 @@
 - [Java용 X-Ray SDK를 사용하는 SQL 쿼리 추적](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-sdk-java-sqlclients.html)
 - [Amazon CodeGuru Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1786241d-967f-4195-99ef-5716ef485201/en-US/)
 - [Amazon CodeGuru](https://aws.amazon.com/ko/codeguru/)
+- [X-Ray 에이전트 활성화 시키는법](https://docs.aws.amazon.com/ko_kr/codeguru/latest/profiler-ug/enabling-the-agent-with-code.html)
+- [X-Ray SDK로 Java에서 실행되는 SQL 쿼리 추적](https://docs.aws.amazon.com/ko_kr/xray/latest/devguide/xray-sdk-java-sqlclients.html)
 
 # 모듈 11: 서버리스 애플리케이션에서 규모 조정 처리
 
