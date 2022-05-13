@@ -95,3 +95,8 @@
 - [Scheduling AWS Lambda Provisioned Concurrency for recurring peak usage](https://aws.amazon.com/ko/blogs/compute/scheduling-aws-lambda-provisioned-concurrency-for-recurring-peak-usage/)
 - [Amazon SQS에 사용할 수 있는 CloudWatch 지표](https://docs.aws.amazon.com/ko_kr/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-available-cloudwatch-metrics.html)
 - [Amazon Kinesis Data Streams, 고속 스트리밍을 위해 향상된 팬아웃 및 HTTP/2 지원 추가](https://aws.amazon.com/ko/blogs/korea/kds-enhanced-fanout/)
+
+
+## 실습 6 - AWS에서의 서버리스 CI/CD
+
+- 39번에서 코드 마지막이 아닌 `const artifactsBucket = new s3.Bucket(this, "ArtifactsBucket");` 바로 아래에 코드 조각을 추가합니다.
