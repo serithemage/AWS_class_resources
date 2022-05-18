@@ -10,6 +10,7 @@
     - 실습 1 Python 실습에서 5번에서 `AWS Cloud9` 이 아니라 `Cloud9`이나 `C9`으로 검색해야지 검색이 됩니다.
     - 실습 2 Python 실습 15번의 대상은 getBucketList함수가 아니라 verifyBucket 함수 입니다.
     - 실습 3 Java 실습에서 solutions폴더 아래 noteQuery-solution.java파일이 있는데 내용이 잘못되어 있으므로 이 솔루션 코드는 사용하지 않도록 주의해 주세요.
+    - 실습 6 15번에서 Generate client secret의 선택 취소를 잊지 않도록 주의하시기 바랍니다. 이 선택쥐소가 되지 않으면 25번 실행시 Client Secret을 받지 못했다는 에러가 발생합니다.
 
 ## Module 1 - 과정 개요
 
