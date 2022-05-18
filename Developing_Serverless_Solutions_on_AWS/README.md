@@ -34,6 +34,7 @@
 - 배포 프레임워크별 코드 비교
   - [CloudFormation VPC생성](https://docs.aws.amazon.com/ko_kr/codebuild/latest/userguide/cloudformation-vpc-template.html)
   - [CDK VPC생성](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_ec2.Vpc.html)
+  - [Terraform VPC생성](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest)
   - [SAM 저장소(DynamoDB) 추가](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US/make-updates/add-datastore)
   - [Amplify 스토리지 추가](https://docs.amplify.aws/cli/storage/overview/)
 
