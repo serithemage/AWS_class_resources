@@ -108,6 +108,7 @@ role_arn = arn:aws:iam::yyyyyyyyyyyy:role/역할명
 - Lambda
   - [Lambda 함수 한도](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/gettingstarted-limits.html)
   - [Lambda 함수 리모트 디버깅](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/serverless-apps-run-debug-no-template.html)
+  - [AWS Lambda에서 Python 2.7에 대한 지원 종료 발표](https://aws.amazon.com/ko/blogs/compute/announcing-end-of-support-for-python-2-7-in-aws-lambda/)
 
 ### 데모 - Lambda 함수 만들기
   - [샘플 코드](https://github.com/awsdocs/aws-lambda-developer-guide)
